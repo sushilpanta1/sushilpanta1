@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sushilpanta1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sushilpanta1&label=Profile%200views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushilpanta1](https://github.com/sushilpanta1)  
