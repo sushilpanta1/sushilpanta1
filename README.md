@@ -43,12 +43,8 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushilpanta1&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
-
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
+ 
 🤝 Open to **Project Collaborations**  
 💼 Offering **DevOps Consulting / Mentorship**  
 📧 Let’s connect: sushilpanta2@gmail.com
