@@ -49,4 +49,4 @@
 💼 Offering **DevOps Consulting / Mentorship**  
 📧 Let’s connect: sushilpanta2@gmail.com
 
-> * Let’s build and automate the future!"*
+Let’s build and automate the future!
