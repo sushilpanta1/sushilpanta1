@@ -22,7 +22,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushilpanta1](https://github.com/sushilpanta1)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 💬 Ask me about **DevOps**  
 - 📫 How to reach me **sushilpanta2@gmail.com**
 
 ---
