@@ -10,23 +10,20 @@
   <a href="https://github.com/sushilpanta1">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+  <a href="https://www.linkedin.com/in/sushil-panta-1346ab231/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sushil%20Panta-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sushilpanta1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushilpanta1](https://github.com/sushilpanta1)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **sushilpanta1@gmail.com**
+- 📫 How to reach me **sushilpanta2@gmail.com**
 
 ---
 
@@ -60,9 +57,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilpanta1&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushilpanta1&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
