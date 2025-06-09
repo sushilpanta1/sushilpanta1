@@ -1,8 +1,8 @@
 <h1 align="center">Hey Everyone 👋, I'm Sushil Panta</h1>
 
-<div align="center">
- <img src="https://github.com/sushilpanta1/sushilpanta1/blob/main/Banner.png" alt="DevOpsShack Banner">
-</div>
+#<div align="center">
+# <img src="https://github.com/sushilpanta1/sushilpanta1/blob/main/Banner.png" alt="DevOpsShack Banner">
+#</div>
 
 <h3 align="center">A passionate DevOps Engineer </h3>
 
